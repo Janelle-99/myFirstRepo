@@ -1,2 +1,2 @@
 # myFirstRepo
-My first repo in a while in github
+My first repo in github
